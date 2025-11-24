@@ -1,0 +1,36 @@
+names:
+- apple
+- basil
+- bitter gourd
+- bread
+- brinjal
+- butter
+- cabbage
+- capsicum
+- carrots
+- cauliflower
+- chillies
+- coriander
+- cucumber
+- egg
+- garlic
+- ginger
+- lemon
+- lettuce
+- milk
+- okra
+- onion
+- potato
+- pumpkin
+- tomato
+- watermelon
+nc: 25
+roboflow:
+  license: CC BY 4.0
+  project: ingredient-detection-5uzov
+  url: https://universe.roboflow.com/ai-project-pji0a/ingredient-detection-5uzov/dataset/6
+  version: 6
+  workspace: ai-project-pji0a
+test: ../test/images
+train: ../train/images
+val: ../valid/images

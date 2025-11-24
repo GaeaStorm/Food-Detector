@@ -2,7 +2,7 @@
 Ingredient Detection - v6 2024-01-30 8:52am
 ==============================
 
-This dataset was exported via roboflow.com on June 1, 2025 at 8:28 AM GMT
+This dataset was exported via roboflow.com on January 30, 2024 at 3:25 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 3256 images.
-Ingredients are annotated in Multi-Class Classification format.
+Ingredients are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 * Resize to 1400x1920 (Stretch)
