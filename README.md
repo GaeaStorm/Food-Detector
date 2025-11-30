@@ -16,6 +16,13 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Setup Project (also export open ai api key)
+```
+...
+./setup.sh
+
+```
+
 ## Dataset
 This dataset was downloaded from Roboflow - https://universe.roboflow.com/ai-project-pji0a/ingredient-detection-5uzov
 
